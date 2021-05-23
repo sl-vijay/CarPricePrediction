@@ -3,7 +3,6 @@ jsonify>=0.5
 jsonschema>=3.2.0
 matplotlib>=3.3.4
 numpy>=1.20.3
-openssl>=1.1.1k
 pandas>=1.2.4
 pickleshare>=0.7.5
 requests>=2.25.1
